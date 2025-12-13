@@ -1,0 +1,16 @@
+# --- Core Deployment and Framework ---
+streamlit
+pandas
+numpy
+
+# Database Connector
+# connecting to PostgreSQL:
+psycopg2-binary
+ 
+# --- Data Analysis & Visualization (Add as needed) ---
+# matplotlib
+# seaborn
+# plotly
+
+# --- Other specific libraries you used ---
+# Add any other libraries your app imports (e.g., scikit-learn, pillow, etc.)

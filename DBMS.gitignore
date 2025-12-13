@@ -1,0 +1,35 @@
+# ----------------------------------------
+# PgAdmin / PostgreSQL related files
+# ----------------------------------------
+# Ignore backup files, dumps, and temporary files
+*.sql.bak
+*.backup
+*.dump
+pg_hba.conf  # PostgreSQL configuration file (often contains sensitive paths/settings)
+postgresql.conf # Main PostgreSQL configuration file
+log/
+tmp/
+
+# ----------------------------------------
+# Development Environment / IDE Files
+# ----------------------------------------
+# Ignore files related to your Integrated Development Environment (IDE), if used
+.vscode/
+.idea/
+*.swp
+*.iml
+
+# ----------------------------------------
+# Operating System files
+# ----------------------------------------
+.DS_Store # Mac OS X
+Thumbs.db # Windows
+
+# ----------------------------------------
+# Secret/Sensitive Configuration Files
+# ----------------------------------------
+# IGNORE ANY FILE THAT CONTAINS PASSWORDS, KEYS, OR SECRETS!
+# If you used an environment file for connection details, ignore it.
+.env
+config.local.py
+secrets.json
