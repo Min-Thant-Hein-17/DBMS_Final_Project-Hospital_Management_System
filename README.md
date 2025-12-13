@@ -25,10 +25,3 @@ You need the following software installed:
 * **Python 3.8+**
 * **PostgreSQL** (and **PgAdmin** is recommended for management)
 
-### 1. Clone the Repository
-
-Clone this repository from GitHub to your local machine:
-
-```bash
-git clone <YOUR_GITHUB_REPO_URL>
-cd <YOUR_PROJECT_FOLDER_NAME>
