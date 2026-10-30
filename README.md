@@ -1,6 +1,8 @@
 # DBMS_Final_Project-Hospital_Management_System
 This is a final group project from Data Base Management System Class. In this project, we will be working on Hospital Management System using DDL, DML, and Trigger functions. Additionally, we will also create a website using streamlit. 
 
+Presentation Slides: https://canva.link/rsqtykh1vxe37sp 
+
 # 🏥 Hospital Management System (HMS) Dashboard
 
 This repository contains the source code and database schema for a Hospital Management System Dashboard built using **Streamlit** and backed by a **PostgreSQL** database.
